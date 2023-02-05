@@ -1,0 +1,155 @@
+{
+    "Week 1": {
+        "id": 3954,
+        "opponent": "Los Angeles Rams",
+        "home": false,
+        "PF": 31,
+        "PA": 10,
+        "win": true,
+        "time": "00:20"
+    },
+    "Week 2": {
+        "id": 3984,
+        "opponent": "Tennessee Titans",
+        "home": true,
+        "PF": 41,
+        "PA": 7,
+        "win": true,
+        "time": "23:15"
+    },
+    "Week 3": {
+        "id": 3990,
+        "opponent": "Miami Dolphins",
+        "home": false,
+        "PF": 19,
+        "PA": 21,
+        "win": false,
+        "time": "17:00"
+    },
+    "Week 4": {
+        "id": 4011,
+        "opponent": "Baltimore Ravens",
+        "home": false,
+        "PF": 23,
+        "PA": 20,
+        "win": true,
+        "time": "17:00"
+    },
+    "Week 5": {
+        "id": 4020,
+        "opponent": "Pittsburgh Steelers",
+        "home": true,
+        "PF": 38,
+        "PA": 3,
+        "win": true,
+        "time": "17:00"
+    },
+    "Week 6": {
+        "id": 4045,
+        "opponent": "Kansas City Chiefs",
+        "home": false,
+        "PF": 24,
+        "PA": 20,
+        "win": true,
+        "time": "20:25"
+    },
+    "Week 8": {
+        "id": 4075,
+        "opponent": "Green Bay Packers",
+        "home": true,
+        "PF": 27,
+        "PA": 17,
+        "win": true,
+        "time": "00:20"
+    },
+    "Week 9": {
+        "id": 4083,
+        "opponent": "New York Jets",
+        "home": false,
+        "PF": 17,
+        "PA": 20,
+        "win": false,
+        "time": "18:00"
+    },
+    "Week 10": {
+        "id": 4092,
+        "opponent": "Minnesota Vikings",
+        "home": true,
+        "PF": 30,
+        "PA": 33,
+        "win": false,
+        "time": "18:00"
+    },
+    "Week 11": {
+        "id": 4106,
+        "opponent": "Cleveland Browns",
+        "home": true,
+        "PF": 31,
+        "PA": 23,
+        "win": true,
+        "time": "18:00"
+    },
+    "Week 12": {
+        "id": 4118,
+        "opponent": "Detroit Lions",
+        "home": false,
+        "PF": 28,
+        "PA": 25,
+        "win": true,
+        "time": "17:30"
+    },
+    "Week 13": {
+        "id": 4134,
+        "opponent": "New England Patriots",
+        "home": false,
+        "PF": 24,
+        "PA": 10,
+        "win": true,
+        "time": "01:15"
+    },
+    "Week 14": {
+        "id": 4150,
+        "opponent": "New York Jets",
+        "home": true,
+        "PF": 20,
+        "PA": 12,
+        "win": true,
+        "time": "18:00"
+    },
+    "Week 15": {
+        "id": 4163,
+        "opponent": "Miami Dolphins",
+        "home": true,
+        "PF": 32,
+        "PA": 29,
+        "win": true,
+        "time": "01:15"
+    },
+    "Week 16": {
+        "id": 4179,
+        "opponent": "Chicago Bears",
+        "home": false,
+        "PF": null,
+        "PA": null,
+        "win": null,
+        "time": "18:00"
+    },
+    "Week 17": {
+        "id": 4209,
+        "opponent": "Cincinnati Bengals",
+        "home": false,
+        "PF": null,
+        "PA": null,
+        "win": null,
+        "time": "01:30"
+    },
+    "Week 18": {
+        "id": 4211,
+        "opponent": "New England Patriots",
+        "home": true,
+        "PF": null,
+        "PA": null,
+        "win": null,
+        "time": "00:00"
+    }
+}

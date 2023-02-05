@@ -1,0 +1,165 @@
+{
+    "player": {
+        "id": 754,
+        "name": "Kyler Murray",
+        "image": "https://media.api-sports.io/american-football/players/754.png"
+    },
+    "teams": [
+        {
+            "team": {
+                "id": 11,
+                "name": "Arizona Cardinals",
+                "logo": "https://media.api-sports.io/american-football/teams/11.png"
+            },
+            "groups": [
+                {
+                    "name": "Passing",
+                    "statistics": [
+                        {
+                            "name": "passing attempts",
+                            "value": "390"
+                        },
+                        {
+                            "name": "completions",
+                            "value": "259"
+                        },
+                        {
+                            "name": "completion pct",
+                            "value": "66.4"
+                        },
+                        {
+                            "name": "yards",
+                            "value": "2,368"
+                        },
+                        {
+                            "name": "yards per pass avg",
+                            "value": "6.1"
+                        },
+                        {
+                            "name": "yards per game",
+                            "value": "215.3"
+                        },
+                        {
+                            "name": "longest pass",
+                            "value": "38"
+                        },
+                        {
+                            "name": "passing touchdowns",
+                            "value": "14"
+                        },
+                        {
+                            "name": "passing touchdowns pct",
+                            "value": null
+                        },
+                        {
+                            "name": "interceptions",
+                            "value": "7"
+                        },
+                        {
+                            "name": "interceptions pct",
+                            "value": null
+                        },
+                        {
+                            "name": "sacks",
+                            "value": "25"
+                        },
+                        {
+                            "name": "sacked yards lost",
+                            "value": "192"
+                        },
+                        {
+                            "name": "quaterback rating",
+                            "value": "87.2"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rushing",
+                    "statistics": [
+                        {
+                            "name": "rushing attempts",
+                            "value": "67"
+                        },
+                        {
+                            "name": "yards",
+                            "value": "418"
+                        },
+                        {
+                            "name": "yards per rush avg",
+                            "value": "6.2"
+                        },
+                        {
+                            "name": "longest rush",
+                            "value": "42"
+                        },
+                        {
+                            "name": "over 20 yards",
+                            "value": "3"
+                        },
+                        {
+                            "name": "rushing touchdowns",
+                            "value": "3"
+                        },
+                        {
+                            "name": "yards per game",
+                            "value": "38.0"
+                        },
+                        {
+                            "name": "fumbles",
+                            "value": "6"
+                        },
+                        {
+                            "name": "fumbles lost",
+                            "value": "2"
+                        },
+                        {
+                            "name": "rushing first downs",
+                            "value": "23"
+                        }
+                    ]
+                },
+                {
+                    "name": "Scoring",
+                    "statistics": [
+                        {
+                            "name": "rushing touchdowns",
+                            "value": "3"
+                        },
+                        {
+                            "name": "receiving touchdowns",
+                            "value": "0"
+                        },
+                        {
+                            "name": "return touchdowns",
+                            "value": "0"
+                        },
+                        {
+                            "name": "total touchdowns",
+                            "value": "3"
+                        },
+                        {
+                            "name": "field goals",
+                            "value": "0"
+                        },
+                        {
+                            "name": "extra points",
+                            "value": "0"
+                        },
+                        {
+                            "name": "two point conversions",
+                            "value": "1"
+                        },
+                        {
+                            "name": "total points",
+                            "value": "20"
+                        },
+                        {
+                            "name": "total points per game",
+                            "value": "1.8"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+The statistics of the players are different depending on the positions they occupy in the formation, so they are grouped into different groups.
+Available Groups:
+    Defense
+    Kicking
+    Passing
+    Punting
+    Receiving
+    Returning
+    Rushing
+    Scoring
+
+Hours log:
+12/22: 6hrs
+12/23: 3hrs

@@ -1,0 +1,28 @@
+# %%
+import numpy as np
+from sklearn.datasets import make_classification
+import matplotlib.pyplot as plt
+# %%
+with open("data/iris.data") as f:
+    lines = [i[:-1] for i in f.readlines()]
+# %%
+n = ["Iris-setosa", "Iris-versicolor", "Iris-virginica"]
+x = [n.index(i.split(",")[-1]) for i in lines if i != ""]
+x = np.array(x, dtype="uint8") #convert word labels to numpy array of integers
+# %%
+y = [[float(j) for j in i.split(",")[:-1]] for i in lines if i != ""]
+y = np.array(y)
+# %%
+i = np.argsort(np.random.random(x.shape[0]))
+x = x[i]
+y = y[i]
+x, y
+# %%
+np.save("data/iris_features.npy", y)
+np.save("data/iris_labels.npy", x)
+# %%
+with open("data/wdbc.data") as f:
+    lines = [i[:-1] for i in f.readlines() if i != ""]
+# %%
+n = ["B", "M"]
+x = np.array([n.index(i.split(",")[1]) for i in lines], dtype="uint8")

@@ -1,0 +1,62 @@
+{
+    "first_downs": {
+        "total": 29,
+        "passing": 16,
+        "rushing": 9,
+        "from_penalties": 4,
+        "third_down_efficiency": "8-14",
+        "fourth_down_efficiency": "0-0"
+    },
+    "plays": {
+        "total": 71
+    },
+    "yards": {
+        "total": 446,
+        "yards_per_play": "11",
+        "total_drives": "6.3"
+    },
+    "passing": {
+        "total": 296,
+        "comp_att": "25-40",
+        "yards_per_pass": "7.0",
+        "interceptions_thrown": 0,
+        "sacks_yards_lost": "2-8"
+    },
+    "rushings": {
+        "total": 150,
+        "attempts": 29,
+        "yards_per_rush": "5.2"
+    },
+    "red_zone": {
+        "made_att": "4-5"
+    },
+    "penalties": {
+        "total": "7-51"
+    },
+    "turnovers": {
+        "total": 1,
+        "lost_fumbles": 1,
+        "interceptions": 0
+    },
+    "posession": {
+        "total": "29:53"
+    },
+    "interceptions": {
+        "total": 0
+    },
+    "fumbles_recovered": {
+        "total": 0
+    },
+    "sacks": {
+        "total": 2
+    },
+    "safeties": {
+        "total": 0
+    },
+    "int_touchdowns": {
+        "total": 0
+    },
+    "points_against": {
+        "total": 29
+    }
+}
